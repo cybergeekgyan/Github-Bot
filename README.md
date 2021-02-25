@@ -11,14 +11,14 @@ Github bots are basically bots that augment the software development process on 
 
  * Made with Probot:
 
-  * Stale – A github app to close stale issues and PRs.
-  * Welcome – A github app to welcome new contributors
-  * Reminders – Set reminder on issues and PRs
+   * Stale – A github app to close stale issues and PRs.
+   * Welcome – A github app to welcome new contributors
+   * Reminders – Set reminder on issues and PRs
 
  * Github Marketplace:
 
-  * imgbot – An app to optimize images on github
-  * circleci – An app for continuous integration
+   * imgbot – An app to optimize images on github
+   * circleci – An app for continuous integration
 
 ##Setting up Basic App
 
